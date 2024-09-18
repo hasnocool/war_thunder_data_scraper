@@ -1,0 +1,12 @@
+
+========================================
+File: /home/hasnocool/Github/active/war_thunder_data_scraper/setup.py
+========================================
+# setup.py for packaging the Python project
+========================================
+File: /home/hasnocool/Github/active/war_thunder_data_scraper/tests/test_war_thunder_data_scraper.py
+========================================
+# Unit tests for war_thunder_data_scraper project
+========================================
+File: /home/hasnocool/Github/active/war_thunder_data_scraper/src/__init__.py
+========================================
